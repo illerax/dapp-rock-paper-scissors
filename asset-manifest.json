@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.618c2c61.css",
-    "main.js": "/static/js/main.b3ee1e37.js",
-    "index.html": "/index.html",
-    "main.618c2c61.css.map": "/static/css/main.618c2c61.css.map",
-    "main.b3ee1e37.js.map": "/static/js/main.b3ee1e37.js.map"
+    "main.css": "/dapp-rock-paper-scissors/static/css/main.618c2c61.css",
+    "main.js": "/dapp-rock-paper-scissors/static/js/main.67ab2a67.js",
+    "index.html": "/dapp-rock-paper-scissors/index.html",
+    "main.618c2c61.css.map": "/dapp-rock-paper-scissors/static/css/main.618c2c61.css.map",
+    "main.67ab2a67.js.map": "/dapp-rock-paper-scissors/static/js/main.67ab2a67.js.map"
   },
   "entrypoints": [
     "static/css/main.618c2c61.css",
-    "static/js/main.b3ee1e37.js"
+    "static/js/main.67ab2a67.js"
   ]
 }

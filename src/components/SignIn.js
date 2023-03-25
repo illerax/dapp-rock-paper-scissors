@@ -20,7 +20,7 @@ const SignIn = ({setWallet}) => {
                 alignItems: 'center',
             }}
         >
-            <img className="logo-sign-in" src="logo.png"/>
+            <img className="logo-sign-in" src={process.env.PUBLIC_URL + '/logo.png'}/>
             <Box sx={{marginTop: 5}}/>
             <Button variant="contained"
                     onClick={connectToMetamask}>

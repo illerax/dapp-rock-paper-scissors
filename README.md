@@ -1,7 +1,10 @@
 # aApp Rock, Paper, Scissors
 
+## Demo application
 
+[https://illerax.github.io/dapp-rock-paper-scissors/](https://illerax.github.io/dapp-rock-paper-scissors/)
 
+## Development
 
 ### `npm start`
 
